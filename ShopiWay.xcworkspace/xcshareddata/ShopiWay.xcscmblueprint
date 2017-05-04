@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "F2C83A353A65680ED3865BC5D8541363A6337E50",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "172491D77F14892D15D1C0437BC2A703C1871731" : 9223372036854775807,
+    "F2C83A353A65680ED3865BC5D8541363A6337E50" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "A46C29BA-1C27-431F-8DB8-4BCC40BF8422",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "172491D77F14892D15D1C0437BC2A703C1871731" : "..",
+    "F2C83A353A65680ED3865BC5D8541363A6337E50" : "Shopiway\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ShopiWay",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ShopiWay.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jaismeensandhu\/cloudyweather.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "172491D77F14892D15D1C0437BC2A703C1871731"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jaismeensandhu\/Shopiway.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F2C83A353A65680ED3865BC5D8541363A6337E50"
+    }
+  ]
+}
